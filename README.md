@@ -4,7 +4,7 @@
 pclass: A proxy for socio-economic status (SES)
 1st = Upper
 2nd = Middle
-3rd = Lower
+3rd = Lower\n
 age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
 sibsp: The dataset defines family relations in this way...
 Sibling = brother, sister, stepbrother, stepsister
