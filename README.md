@@ -4,7 +4,7 @@
 The data has been split into two groups: 
 * training set (train.csv)
 * test set (test.csv)
-* 
+
 ## Variable Notes
 * Pclass: A proxy for socio-economic status (SES)
 1st = Upper
